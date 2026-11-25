@@ -1,0 +1,19 @@
+# Arquivos compilados
+bin/
+*.class
+
+# Configurações locais do Eclipse
+.settings/
+.metadata/
+*.launch
+
+# Arquivos com credenciais
+.env
+.env.*
+config.properties
+
+# Arquivos temporários
+*.log
+
+# Bibliotecas externas
+lib/*.jar
